@@ -35,7 +35,7 @@ já que é o que os professores pedem para a gente desenvolver, mas é isso, esp
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=guxkswzz&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
