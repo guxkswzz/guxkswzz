@@ -42,7 +42,7 @@ já que é o que os professores pedem para a gente desenvolver, mas é isso, esp
     <td>
  <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxkswzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -50,7 +50,7 @@ já que é o que os professores pedem para a gente desenvolver, mas é isso, esp
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=guxkswzz&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
