@@ -9,11 +9,11 @@ já que é o que os professores pedem para a gente desenvolver, mas é isso, esp
 🔭 atualmente estou trabalhando no projeto "Gam3r Store", é para o trabalho trimestral da escola.
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="gustavoananias2008@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gustavoananias2008@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="www.linkedin.com/in/gananias-dev" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gananias-dev" alt="Linkedin"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/guxkswz/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guxkswz/" alt="Instagram"/></a>
 </p>
 
