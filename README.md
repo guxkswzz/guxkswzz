@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Olá, meu nome é {guxkswzz}!
+Opa, meu nome é {guxkswzz}!
 
 Me chamo Gustavo, tenho 16 anos, moro em Curitiba e estou aprendendo programação, mas de pouco em pouco eu vou evoluindo, aqui o meu github você encontrará alguns
 projetos básicos e simples, alguns em linguagens mais avançadas e outros nem tanto, a maioria dos projetos aqui são projetos que eu faço durante as aulas que tenho,
@@ -9,7 +9,7 @@ já que é o que os professores pedem para a gente desenvolver, mas é isso, esp
 🔭 atualmente estou trabalhando no projeto "Gam3r Store", é para o trabalho trimestral da escola.
 
 <p align="left">
-  <a href="gustavoananias2008@gmail.com" title="Gmail">
+  <a href="mailto:gustavoananias2008@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gustavoananias2008@gmail.com" alt="Gmail"/></a>
   <a href="www.linkedin.com/in/gananias-dev" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gananias-dev" alt="Linkedin"/></a>
