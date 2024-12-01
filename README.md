@@ -26,6 +26,8 @@ já que é o que os professores pedem para a gente desenvolver. Mas é isso, esp
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://th.bing.com/th/id/R.b4f7f13e74266a7839dc2155796a0247?rik=pAyqn4QA0jh2bQ&pid=ImgRaw&r=0" alt="NestJS"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="NextJS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://th.bing.com/th/id/R.8ede2d5e73498de3d75493f9c70cf32a?rik=mVNdwU4KYhKutQ&pid=ImgRaw&r=0" alt="MySQL"/></code>
