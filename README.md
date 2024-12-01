@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Opa, meu nome é {guxkswzz}!
+Olá, meu nome é guxkswzz!
 
-Me chamo Gustavo, tenho 16 anos, moro em Curitiba e estou aprendendo programação, mas de pouco em pouco eu vou evoluindo, aqui o meu github você encontrará alguns
+Me chamo Gustavo, tenho 16 anos, moro em Curitiba/Paraná/Brasil e estou aprendendo programação, mas de pouco em pouco eu vou evoluindo, aqui o meu github você encontrará alguns
 projetos básicos e simples, alguns em linguagens mais avançadas e outros nem tanto, a maioria dos projetos aqui são projetos que eu faço durante as aulas que tenho,
 já que é o que os professores pedem para a gente desenvolver, mas é isso, espero que meu github esteja apresentável. XD
 
