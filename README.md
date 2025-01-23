@@ -6,7 +6,7 @@ Me chamo Gustavo, tenho 16 anos, moro em Curitiba/Paraná/Brasil e estou aprende
 projetos básicos e simples, alguns em linguagens mais avançadas e outros nem tanto, a maioria dos projetos aqui são projetos que eu faço durante as aulas que tenho,
 já que é o que os professores pedem para a gente desenvolver. Mas é isso, espero que meu github esteja apresentável. 😉
 
-🔭 Atualmente eu concluí o projeto "Gam3r Store", estou sem projetos no momento!
+🔭 Atualmente eu estou fazendo o projeto "SkyMC"!
 
 <p align="left">
   <a href="mailto:gustavoananias2008@gmail.com" title="Gmail">
